@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D-Agar
-- 👀 I’m interested in ...
+- 👀 I'm a student learning about GitHub and learning programming.
 - 🌱 I’m currently learning C#. C++ as well as using Python for Data Analysis.
 - 📫 How to reach me: email danieljagar@outlook.com
 
