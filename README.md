@@ -1,16 +1,15 @@
-- Undergraduate student at The University of York
-- Studying Computer Science (BEng)
-- Interested in:
+I'm an undergraduate student at The University of York, studying for my BEng in Computer Science.
+
+I am interested in:
   - Data Science
   - Machine Learning
   - Software assurance through proof
-- Programming Languages:
+  - Software Development
+
+I can write in the following programming Languages:
   - Python
   - Java
   - C
   - C#
   - C++
   - SQL
-- Hobbies:
-  - Bowls (Short Mat and Lawn)
-  - Cycling
