@@ -5,6 +5,7 @@ I am interested in:
   - Machine Learning
   - Software assurance through proof
   - Software Development
+  - Autonomous Robotic Systems
 
 I can write in the following programming Languages:
   - Python
