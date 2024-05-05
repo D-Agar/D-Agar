@@ -7,7 +7,7 @@ I am interested in:
   - Software Development
   - Autonomous Robotic Systems
 
-I can write in the following programming Languages:
+I have some experience in the following programming languages:
   - Python
   - Java
   - C
