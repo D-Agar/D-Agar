@@ -1,4 +1,4 @@
-I'm an undergraduate student at The University of York, studying for my BEng in Computer Science.
+I'm a 2nd year at The University of York, studying for my BEng in Computer Science.
 
 I am interested in:
   - Data Science
