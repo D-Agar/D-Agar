@@ -2,14 +2,13 @@ I'm a final year Computer Science undergraduate, studying at the University of Y
 
 I am interested in:
   - Data Science
-  - Machine Learning
+  - Machine Learning/Deep Learning
   - Software Development
-  - Robotics (ROS2)
+  - Robotics
 
-I have some experience in the following programming languages:
+I have some experience in the following:
   - Python
   - Java
-  - C
-  - C#
-  - C++
+  - C/C#/C++
   - SQL
+  - ROS 2
