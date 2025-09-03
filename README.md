@@ -1,4 +1,4 @@
-I'm a final year Computer Science undergraduate, studying at the University of York
+Masters student studying Data Science at The University of York.
 
 I am interested in:
   - Data Science
