@@ -8,6 +8,7 @@ I am interested in:
 
 I have some experience in the following:
   - Python
+  - R
   - Java
   - C/C#/C++
   - SQL
